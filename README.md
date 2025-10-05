@@ -38,7 +38,8 @@ The application is hosted live via Streamlit Cloud, allowing immediate interacti
 
 🌐 Live Demo: [Fraud Detection AI Agent on Streamlit](https://fraud-detection-agent-project.streamlit.app/)
 
-<img width="870" height="867" alt="image" src="https://github.com/user-attachments/assets/d6c84c2f-5e72-4322-9799-ea2ba974ce47" />
+<img width="771" height="851" alt="image" src="https://github.com/user-attachments/assets/6507d737-47d5-478a-99ac-5f9bdbcc95c1" />
+
 
 
 
